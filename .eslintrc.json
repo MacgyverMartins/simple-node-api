@@ -13,5 +13,11 @@
         "sourceType": "module"
     },
     "rules": {
+        "semi": [
+            "error",
+            "never"
+        ],
+        "no-underscore-dangle": 0,
+        "camelcase": 0
     }
 }
