@@ -1,5 +1,4 @@
-# skore
-simple express API 
+# Simple Express API 
 
 ## Requirements
 * Node.js v12 or later
